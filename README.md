@@ -1,1 +1,1 @@
-# spring-boot-samples
+# Spring Boot Playground
