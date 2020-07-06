@@ -1,1 +1,1 @@
-# Spring Boot Playground
+# Spring Playground
